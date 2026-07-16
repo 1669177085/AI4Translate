@@ -29,7 +29,7 @@ pip install -r requirements.txt
 - `tqdm` — 进度条
 
 ## 快速开始
-
+注意：需要在config.py中找到DEEPSEEK_API_KEY，填入自己在deepseek中的api key。
 ```bash
 # 翻译单篇论文
 python main.py paper.pdf
