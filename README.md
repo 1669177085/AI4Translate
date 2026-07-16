@@ -1,6 +1,9 @@
 # AI4Translate
 一个基于AI大模型（deepseek v4-pro）的开源强大的英文->中文的科研论文翻译软件。
 
+Developer：Bingkun Wang（1669177085@qq.com）
+Organization：Huazhong Agricultural University
+
 ## 功能特点
 
 - **学术论文翻译**：使用 DeepSeek LLM 将英文论文翻译为高质量中文
